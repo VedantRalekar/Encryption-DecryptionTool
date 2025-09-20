@@ -21,9 +21,4 @@ This project demonstrates **core C++ skills** such as string manipulation, file 
 ---
 
 ## 📂 Project Structure
-CaesarCipherTool/
- -- 📜 caesar_tool.cpp       # Main C++ source code (single file, self-contained)
- -- 📜 sample.txt            # Optional example input file
- -- 📷 screenshot1.png       # Screenshot of encryption
- -- 📷 screenshot2.png       # Screenshot of decryption
- -- 📜 README.md             # GitHub documentation
+       
