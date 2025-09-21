@@ -20,5 +20,19 @@ This project demonstrates **core C++ skills** such as string manipulation, file 
 
 ---
 
-## 📂 Project Structure
+<p float="left">
+   <img src="https://github.com/VedantRalekar/AppointmentApp/blob/a3e759b39b6d72dd8032ac6eb5c788242ba8efd5/introactivity.png" width="200"/>
+  <img src="https://github.com/VedantRalekar/AppointmentApp/blob/6b50e2b3de069258671a6f5795a1aea8c660878d/signup.png" width="200"/>
+</p>
+
+## 📦 Installation
+
+### Prerequisites
+- Android Studio / VS Code
+- Firebase project (if using Firebase)
+- Emulator or physical Android device
+
+### Steps
+1. Clone the repository:
+https://github.com/VedantRalekar/AppointmentApp.git
        
