@@ -22,7 +22,7 @@ This project demonstrates **core C++ skills** such as string manipulation, file 
 
 <p float="left">
    <img src="https://github.com/VedantRalekar/Encryption-DecryptionTool/blob/main/Screenshot%202025-09-20%20165046.png" width="400"height="500"/>
-  <img src="https://github.com/VedantRalekar/Encryption-DecryptionTool/blob/main/Screenshot%202025-09-20%20165111.png" width="400"/>
+  <img src="https://github.com/VedantRalekar/Encryption-DecryptionTool/blob/main/Screenshot%202025-09-20%20165111.png" width="400"height="500"/>
 </p>
 
 ## 📦 Installation
