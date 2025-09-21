@@ -27,12 +27,21 @@ This project demonstrates **core C++ skills** such as string manipulation, file 
 
 ## 📦 Installation
 
-### Prerequisites
-- Android Studio / VS Code
-- Firebase project (if using Firebase)
-- Emulator or physical Android device
+### 🖥️ Usage
+
+Select operation:
+
+1 → Encrypt
+
+2 → Decrypt
+
+Enter text directly or leave blank to input a file.
+
+Provide a key (shift value).
+
+View result and optionally save to a file.
 
 ### Steps
 1. Clone the repository:
-https://github.com/VedantRalekar/AppointmentApp.git
+https://github.com/VedantRalekar/Encryption-DecryptionTool.git
        
