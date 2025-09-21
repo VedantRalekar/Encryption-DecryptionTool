@@ -30,11 +30,11 @@ This project demonstrates **core C++ skills** such as string manipulation, file 
 ### 🖥️ Usage
 
 Select operation:
-1 → Encrypt
-2 → Decrypt
-Enter text directly or leave blank to input a file.
-Provide a key (shift value).
-View result and optionally save to a file.
+--1 → Encrypt
+--2 → Decrypt
+--Enter text directly or leave blank to input a file.
+--Provide a key (shift value).
+--View result and optionally save to a file.
 
 ### **Steps to clone**
 1. Clone the repository:
